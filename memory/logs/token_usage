@@ -1,0 +1,13 @@
+step_name,prompt_tokens_in_step,completion_tokens_in_step,total_tokens_in_step,total_prompt_tokens,total_completion_tokens,total_tokens
+clarify,294,127,421,294,127,421
+clarify,463,96,559,757,223,980
+clarify,638,90,728,1395,313,1708
+clarify,825,74,899,2220,387,2607
+clarify,970,70,1040,3190,457,3647
+clarify,1101,70,1171,4291,527,4818
+clarify,1219,50,1269,5510,577,6087
+clarify,1321,50,1371,6831,627,7458
+clarify,1463,32,1495,8294,659,8953
+clarify,1547,5,1552,9841,664,10505
+gen_clarified_code,3686,1506,5192,13527,2170,15697
+gen_entrypoint,1698,77,1775,15225,2247,17472
